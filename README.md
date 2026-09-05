@@ -32,9 +32,6 @@
 I'm a Computer Science & Engineering student who enjoys turning
 ideas into practical software.
 
-My interests include software development, AI/ML and data,
-with hands-on work across full-stack and AI-based projects.
-
 Currently learning, building and solving one problem at a time.
 ```
 
@@ -147,39 +144,6 @@ Improving DSA, Java, SQL and core CS fundamentals.
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=7C83FD&center=true&vCenter=true&width=650&lines=Deepening+AI%2FML+Knowledge+%F0%9F%A4%96;Improving+DSA+%26+Problem+Solving+%F0%9F%A7%A9;Improving+Full-Stack+Development+%F0%9F%9A%80;Exploring+Data+Technologies+%F0%9F%93%8A" />
 
 </div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                       GITHUB ACTIVITY                          -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jagruthipolu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jagruthipolu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=jagruthipolu&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                     CONTRIBUTION HEATMAP                       -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🔥 Contribution Heatmap
-
 
 <br>
 
