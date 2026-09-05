@@ -1,195 +1,197 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                        HERO SECTION                            -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-
-# 👋 Hi, I'm **Jagruthi Polu**
-
-### `Aspiring Software Engineer` • `AI/ML Enthusiast` • `Full-Stack Developer`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Java+%7C+Python+%7C+SQL;Building+AI-powered+Applications;Full-Stack+Development+with+MERN;Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=jagruthipolu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=34&duration=2800&pause=900&color=7C83FD&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Jagruthi+Polu+%F0%9F%91%8B;Aspiring+Software+Engineer;AI%2FML+Enthusiast;Full-Stack+Developer" alt="Typing introduction"/>
+
+<p>
+<b>Java</b> • <b>Python</b> • <b>SQL</b> • <b>AI/ML</b> • <b>MERN</b>
+</p>
 
 </div>
 
----
+<br>
 
-## 🧑‍💻 About Me
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-🎓 **Computer Science & Engineering Undergraduate**
+<!--                         ABOUT                                  -->
 
-💻 Strong foundation in **Java, Python, SQL, DSA & DBMS**
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-🤖 Interested in **AI/ML and intelligent applications**
+## ✦ About Me
 
-🌐 Building applications using **MERN Stack & REST APIs**
+```text
+I'm a Computer Science & Engineering student who enjoys turning
+ideas into practical software.
 
-🧠 Passionate about **problem solving and learning new technologies**
+My interests include software development, AI/ML and data,
+with hands-on work across full-stack and AI-based projects.
 
-🚀 Currently exploring **AI/ML, full-stack development and data technologies**
+Currently learning, building and solving one problem at a time.
+```
 
----
+<br>
 
-## 🛠️ Tech Stack
+<div align="center">
+
+### ⚡ What I Enjoy Building
+
+<table>
+<tr>
+
+<td align="center" width="220">
+
+### 🤖
+
+**AI & ML**
+
+Exploring AI concepts and building AI-based applications.
+
+</td>
+
+<td align="center" width="220">
+
+### 🌐
+
+**Full Stack**
+
+Building applications using the MERN stack and REST APIs.
+
+</td>
+
+<td align="center" width="220">
+
+### 🧩
+
+**Problem Solving**
+
+Improving DSA, Java, SQL and core CS fundamentals.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                       TECH STACK                               -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🧰 Tech Stack
 
 ### 💻 Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,mysql" height="48"/>
+<p>
+<img src="https://skillicons.dev/icons?i=java,python&theme=dark" height="52"/>
 </p>
 
-### 🌐 Full-Stack Development
+`Java` `Python` `SQL`
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="48"/>
+### 🌐 Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark" height="52"/>
 </p>
 
-### 🤖 AI / ML & Data
+`React.js` `Node.js` `Express.js` `REST APIs`
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python" height="48"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/sqlite/003B57" height="48"/>
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark" height="52"/>
 </p>
 
-**BLIP • Streamlit • ChromaDB • Vector Embeddings**
+`MongoDB` `SQLite`
+
+### 🤖 AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="52"/>
+</p>
+
+`BLIP` `Streamlit` `ChromaDB` `Vector Embeddings`
 
 ### 🔧 Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="48"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="52"/>
 </p>
 
----
+`Git` `GitHub` `VS Code` `Postman`
 
-## 🚀 Featured Projects
+<br>
 
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 🤖 IntelliCap
+<!--                        LEARNING                                -->
 
-**AI-Powered Image Captioning & Semantic Search Platform**
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-`Python` `Streamlit` `BLIP` `SQLite` `ChromaDB`
-
-</div>
-
-> 🖼️ AI-powered image understanding
-> 🔎 Semantic image search using vector embeddings
-> 🗄️ Metadata management using SQLite
-> ⚡ Interactive Streamlit interface
-
----
+## 🧠 Currently Learning
 
 <div align="center">
 
-### 📊 Student Performance Analysis System
-
-**Full-Stack Academic Management Platform**
-
-`React.js` `Node.js` `Express.js` `MongoDB`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=7C83FD&center=true&vCenter=true&width=650&lines=Deepening+AI%2FML+Knowledge+%F0%9F%A4%96;Improving+DSA+%26+Problem+Solving+%F0%9F%A7%A9;Improving+Full-Stack+Development+%F0%9F%9A%80;Exploring+Data+Technologies+%F0%9F%93%8A" />
 
 </div>
 
-> 🔐 JWT authentication & role-based access
-> 🔗 REST API architecture
-> 📚 Academic record management
-> 📈 Attendance, marks & analytics modules
+<br>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<!--                       GITHUB ACTIVITY                          -->
 
-### 🏏 Fantasy Cricket Desktop Application
-
-**Fantasy Team Management Application**
-
-`Python` `PyQt5` `SQLite`
-
-</div>
-
-> 🖥️ Desktop GUI application
-> 🧠 Rule-based player validation
-> 📊 Fantasy scoring system
-> 🏗️ Object-Oriented Programming
-
----
-
-## 💼 Experience
-
-### 👩‍💻 MERN Stack Intern
-
-**Kakatiya Institute of Technology and Science**
-
-`May 2025 – Jun 2025`
-
-Worked with:
-
-`MongoDB` • `Express.js` • `React.js` • `Node.js`
-
-🔹 RESTful APIs
-🔹 CRUD operations
-🔹 MongoDB integration
-🔹 Authentication concepts
-🔹 API testing with Postman
-
----
-
-## 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AI%2FML-Learning-blue?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Full--Stack-Development-orange?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Data-Technologies-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-DSA-purple?style=for-the-badge"/>
-
-</p>
-
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jagruthipolu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jagruthipolu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagruthipolu&layout=compact&hide_border=true&langs_count=6" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jagruthipolu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=jagruthipolu&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=jagruthipolu&theme=tokyonight&hide_border=true" />
 
 </div>
 
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                     CONTRIBUTION HEATMAP                       -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🔥 Contribution Heatmap
 
 
-## 💡 Coding Journey
+<br>
 
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://leetcard.jacoblin.cool/jagruthi9?theme=light&font=Karma&ext=heatmap" width="500"/>
+<!--                         CONNECT                                -->
 
-</div>
-
----
-
-## 🏆 Certifications
-
-🎓 **Database Management Systems — NPTEL**
-
-🧠 **Deep Learning — NPTEL, IIT Ropar**
-
-🐍 **Programming with Python — Internshala Trainings**
-
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🌐 Let's Connect
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/jagruthipolu">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -207,30 +209,22 @@ Worked with:
 <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
----
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                          FOOTER                                -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### ✨ *Learn. Build. Solve. Repeat.* 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=550&lines=Learn+%E2%86%92+Build+%E2%86%92+Solve+%E2%86%92+Repeat+%F0%9F%9A%80" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
-
-
-<!--
-**Jagruthipolu/Jagruthipolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
