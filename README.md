@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=34&duration=2800&pause=900&color=7C83FD&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Jagruthi+Polu+%F0%9F%91%8B;Aspiring+Software+Engineer;AI%2FML+Enthusiast;Full-Stack+Developer" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=34&duration=2800&pause=900&color=7C83FD&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Jagruthi+Polu+%F0%9F%91%8B;AI%2FML+Enthusiast;Full-Stack+Developer" alt="Typing introduction"/>
 
 <p>
 <b>Java</b> • <b>Python</b> • <b>SQL</b> • <b>AI/ML</b> • <b>MERN</b>
